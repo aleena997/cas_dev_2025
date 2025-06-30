@@ -24,4 +24,4 @@ This is a web application built using **CodeIgniter 4** that integrates with:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/aleena997/cas_dev_2025.git
